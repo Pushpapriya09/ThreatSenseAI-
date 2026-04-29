@@ -118,9 +118,7 @@ Iqlas Tharannum
 
 Azra Khan
 
-Zainab Mani
 
-Mohammed Adnan
 
 📌 Future Enhancements
 
