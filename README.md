@@ -1,6 +1,6 @@
-🔐 SafeClick AI
+🔐 ThreatSense AI
 
-SafeClick AI is an AI-powered cybersecurity assistant designed to help users detect phishing links, scam emails, suspicious messages, and malicious QR codes before they click or scan.
+ThreatSense AI is an AI-powered cybersecurity assistant designed to help users detect phishing links, scam emails, suspicious messages, and malicious QR codes before they click or scan.
 
 It combines advanced AI-driven threat analysis with rule-based fallback security checks to provide fast, reliable, and privacy-focused protection for everyday internet usage.
 
